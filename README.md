@@ -2,7 +2,7 @@
 
 
 
-In this NoteBooks I have shown Exploratory Data Analysis using various techniques to find out proper impact of Car price. Also I have used different operation base on this question __"What are the main characteristics that have the most impact on the car price?"__
+In this NoteBooks I have shown Exploratory Data Analysis using various techniques to find out proper impact of Car price. Also I have used different statistical operations base on this question __"What are the main characteristics that have the most impact on the car price?"__
 
 
 <h3>Important Variables</h3>
